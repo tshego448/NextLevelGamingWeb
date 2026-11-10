@@ -12,6 +12,13 @@ A static, multi-page website for **Next Level Gaming & Esports Arena**. It intro
 - **Style (`style.html`)** — Brand colors and visual identity guidance.
 - **`assets/`** — Shared stylesheet, JavaScript, package data, and brand artwork used by the pages.
 
+## Project links
+
+- [Published website](https://benevolent-kringle-e7be56.netlify.app)
+- [Website source repository](https://github.com/tshego448/NextLevelGamingWeb)
+- [Mobile app repository](https://github.com/oratiledire11-ui/Next-level-gaming-app)
+- [Project video on YouTube](https://youtu.be/g4FLEDm0lSs)
+
 ## Run in Visual Studio Code
 
 This project is built with plain HTML, CSS, and JavaScript. **Node.js and `npm install` are not required.**
