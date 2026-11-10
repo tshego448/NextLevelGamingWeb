@@ -11,7 +11,7 @@ A static, multi-page website for **Next Level Gaming & Esports Arena**. It intro
 - **Contact (`contact.html`)** — An enquiry form interface for collecting draft details.
 - **Style (`style.html`)** — Brand colors and visual identity guidance.
 - **`assets/`** — Shared stylesheet, JavaScript, package data, and brand artwork used by the pages.
--
+
 - **IMPORTANT** Remember to DOWNLOAD THE ASSETS folder for the CSS, JS and artworks and images used by the website
 
 ## Project links
